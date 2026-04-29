@@ -1,0 +1,22 @@
+软件名称 SmartDraw  
+软件版本 7.01 Suite Edition  
+所属分类 图像制作 
+授权方式 商业软件 
+软件汉化 JH Studio （http://www.mtc921.com)
+运行环境 WIN9X/WINME/WINNT/WIN2000PRO/WINXP/WIN2003 
+软件介绍 
+  媲美微软Visio的专业图表绘制软件 - SmartDraw
+SmartDraw可以绘制出各种精美、实用的图表，如流程图、组织结构图、网络布线图、软件开发进程图、工程图、家居平面图、时间计划表、地图、商业用图等等。SmartDraw荣获PC Magazine、Download.Com、ZD Net等权威杂志、网站的一致好评，多次被评为五星级软件和最佳商用软件。
+
+-提供良好的作图环境
+不仅有标尺显示、网格锁定等功能，能精确地设置屏幕显示大小相对于实际大小的比例
+
+- 与MS Office完美集成
+可插入Word文档、Word中的艺术字体、Excel工作表
+
+- 支持多种绘图软件的文件格式导入或导出
+
+- 完善的帮助和提示系统、易学易用
+
+- 免费的SmartDraw文件浏览器(Viewer)
+使没有安装SmartDraw的用户也能查看或是打印其它人所绘制的图表

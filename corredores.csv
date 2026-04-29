@@ -1,0 +1,8 @@
+-- maratoon.corredores
+
+id,Nombre,Apellidos,Ciudad,FechaNacimiento,Sexo,Edad,Categoria_id,Club_id
+17,Luis,Gómez Ruiz,Jerez,1995-03-12,H,, ,3
+18,Ana,Martín López,Sevilla,2002-07-25,M,, ,2
+19,Carlos,Sánchez Díaz,Cádiz,1988-11-05,H,, ,5
+20,Lucía,Fernández Vega,Málaga,1975-01-18,M,, ,4
+21,David,Ruiz Torres,Granada,1960-09-09,H,, ,1
